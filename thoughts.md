@@ -5,3 +5,5 @@
 2. The second strategy I am committed to trying during the rest of Mod 0 is to raise my hand more frequently during the Sessions.
 
 Shout out to my good friend and graduate, Matt Renn, for the encouragement to enroll!
+
+This is an additional thought that I am pushing to the remote depository that I just created on GitHub. 
